@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento frontend.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e interfaces frontend.
 
 ## Atualmente estudando
 - HTML
