@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvime
 - Git e GitHub
 
 ## Objetivos
-Buscando desenvolver experiência prática através de projetos e evolução constante na área de tecnologia.
+Buscando desenvolver experiência prática através de projetos, aprendizado contínuo e evolução técnica na área de tecnologia.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
