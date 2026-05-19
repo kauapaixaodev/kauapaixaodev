@@ -19,4 +19,4 @@ Buscando desenvolver experiência prática através de projetos e evolução con
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/kauapaixaodev/]
+- LinkedIn: https://www.linkedin.com/in/kauapaixaodev/
